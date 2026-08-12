@@ -1,2 +1,2 @@
-# Iris_dataset_classification
-My first ML project Accuracy Rate 82%
+# Titanic and Iris ML project
+My first ML project 
